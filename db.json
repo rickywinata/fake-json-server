@@ -1,0 +1,10 @@
+{
+  "admins": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "createdAt": "2024-10-19T08:32:24.000Z"
+    }
+  ]
+}
