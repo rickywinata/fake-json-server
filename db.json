@@ -5,6 +5,12 @@
       "name": "John Doe",
       "email": "john@example.com",
       "createdAt": "2024-10-19T08:32:24.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Alice Smith",
+      "email": "alice@example.com",
+      "createdAt": "2024-10-20T08:32:24.000Z"
     }
   ]
 }
